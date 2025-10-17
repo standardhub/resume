@@ -39,5 +39,3 @@ Experienced Senior Full-Stack Developer with 8+ years of building scalable, high
 I'd love to collaborate or chat about technical leadership, building products, or potential opportunities.
 
 - Email: standardhubline@gmail.com
-- LinkedIn: 
-- Portfolio / Website: 
