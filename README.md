@@ -18,3 +18,10 @@ Experienced Senior Full-Stack Developer with 8+ years of building scalable, high
 - APIs & Protocols: RESTful APIs, GraphQL, WebSocket, WebRTC
 - Cloud & DevOps: AWS, GCP, Azure, Vercel, Docker, CI/CD (GitHub Actions, Jenkins), Terraform
 - Tools & Others: Web scraping & automation, testing, monitoring, project management (Jira, Slack)
+
+## Working Style
+
+- User-centric: prioritize clarity, accessibility, and performance in UX
+- Data-driven: measure, iterate, and optimize based on metrics
+- Collaborative: mentor teammates, lead code reviews, and align on product goals
+- Responsible: write secure, maintainable code and follow best practices
