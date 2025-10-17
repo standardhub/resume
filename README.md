@@ -13,7 +13,7 @@ Experienced Senior Full-Stack Developer with 8+ years of building scalable, high
 
 - Languages: HTML, CSS, JavaScript/TypeScript, Python, PHP, C/C++, C#, Java, SQL, Rust, Ruby, Go
 - Frontend: React, Next.js, Vue.js, Angular, Web3.js, jQuery, Tailwind CSS, Bootstrap, MUI, Ant Design, Responsive Design
-- Backend: Node.js, Express.js, Nest.js, Django, Laravel, Ruby on Rails, .NET
+- Backend: Node.js, Express.js, Nest.js, Django, Laravel, Ruby on Rails, .NET, API integration
 - Databases: MySQL, PostgreSQL, MongoDB, MariaDB, SQLite, Supabase, Firebase, Firestore
 - APIs & Protocols: RESTful APIs, GraphQL, WebSocket, WebRTC
 - Cloud & DevOps: AWS, GCP, Azure, Vercel, Docker, CI/CD (GitHub Actions, Jenkins), Terraform
