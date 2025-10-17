@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/handshake.png" width="150px" height="150px"></p>
+<p align="center"><img src="./assets/handshake.svg" width="150px" height="150px"></p>
 
 # Senior Full-Stack Developer
 
