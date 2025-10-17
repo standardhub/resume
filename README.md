@@ -19,6 +19,14 @@ Experienced Senior Full-Stack Developer with 8+ years of building scalable, high
 - Cloud & DevOps: AWS, GCP, Azure, Vercel, Docker, CI/CD (GitHub Actions, Jenkins), Terraform
 - Tools & Others: Web scraping & automation, testing, monitoring, project management (Jira, Slack)
 
+## What I Build
+
+- High-performance single-page applications and SSR/SSG websites using React and Next.js
+- Production-ready backend services with Node.js, Nest.js, and Django
+- Real-time systems and streaming features using WebSocket/WebRTC
+- Integrations with AI models to enhance user experience and automation
+- Proofs-of-concept and production features using blockchain (Web3.js)
+
 ## Working Style
 
 - User-centric: prioritize clarity, accessibility, and performance in UX
